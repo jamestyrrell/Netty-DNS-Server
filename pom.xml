@@ -6,7 +6,8 @@
     <version>1.0.0.BUILD-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>Mavenized and OSGi'd org.handwerkszeug.dns</name>
-    <description>Netty implementation of DNS.</description>
+    <url>https://github.com/jamestyrrell/Netty-DNS-Server</url>
+    <description>A Netty DNS server. The original project, werkzeugkasten, can be found at http://code.google.com/p/werkzeugkasten/.</description>
     <dependencies>
         <dependency>
             <groupId>io.netty</groupId>
