@@ -1,0 +1,4 @@
+outer :
+  inner :
+    inner : 3
+outer2 : 5

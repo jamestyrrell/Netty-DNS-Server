@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/1588/trunk/dns/lib
+END
+logback-core-0.9.28.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1522/trunk/dns/lib/logback-core-0.9.28.jar
+END
+logback-core-0.9.28-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1522/trunk/dns/lib/logback-core-0.9.28-sources.jar
+END
+snakeyaml-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1492/trunk/dns/lib/snakeyaml-1.7.jar
+END
+snakeyaml-1.7-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1492/trunk/dns/lib/snakeyaml-1.7-sources.jar
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1466/trunk/dns/lib/slf4j-api-1.6.1.jar
+END
+slf4j-api-1.6.1-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1466/trunk/dns/lib/slf4j-api-1.6.1-sources.jar
+END
+netty-3.2.2.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1436/trunk/dns/lib/netty-3.2.2.Final.jar
+END
+netty-3.2.2.Final-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1436/trunk/dns/lib/netty-3.2.2.Final-sources.jar
+END
+logback-classic-0.9.28.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1522/trunk/dns/lib/logback-classic-0.9.28.jar
+END
+logback-classic-0.9.28-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1522/trunk/dns/lib/logback-classic-0.9.28-sources.jar
+END

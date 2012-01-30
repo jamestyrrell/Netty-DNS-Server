@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1587/trunk/dns/src/org/handwerkszeug/dns/conf/masterfile
+END
+Partitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1586/trunk/dns/src/org/handwerkszeug/dns/conf/masterfile/Partitioner.java
+END
+MasterFileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1587/trunk/dns/src/org/handwerkszeug/dns/conf/masterfile/MasterFileParser.java
+END
+Partition.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1586/trunk/dns/src/org/handwerkszeug/dns/conf/masterfile/Partition.java
+END

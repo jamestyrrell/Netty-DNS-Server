@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/1586/trunk/dns/test
+END
+named.root.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1534/trunk/dns/test/named.root.txt
+END
+root.zone.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1534/trunk/dns/test/root.zone.txt
+END

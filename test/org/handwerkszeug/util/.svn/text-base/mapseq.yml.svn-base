@@ -1,0 +1,7 @@
+outer :
+  - inner :
+      - a : 1
+      - b : 2
+      - c : 3
+  - inner : 4
+outer : 7

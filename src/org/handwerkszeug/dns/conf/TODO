@@ -1,0 +1,5 @@
+RFC4741 NETCONF Configuration Protocol
+RFC5381 Experience of Implementing NETCONF over SOAP
+
+そのものを利用する事は無くても、方向性として考慮する必要はありそう。
+ここに書いてある程度の事は出来なければ、別解を用意する意味は無い。

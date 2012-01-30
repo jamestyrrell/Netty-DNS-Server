@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/911/trunk/werkzeugkasten.common/src/werkzeugkasten/common/exception
+END
+XMLStreamRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/606/trunk/werkzeugkasten.common/src/werkzeugkasten/common/exception/XMLStreamRuntimeException.java
+END
+IORuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/619/trunk/werkzeugkasten.common/src/werkzeugkasten/common/exception/IORuntimeException.java
+END

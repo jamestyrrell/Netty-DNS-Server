@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1587/trunk/dns/src/org/handwerkszeug/dns
+END
+Resolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1465/trunk/dns/src/org/handwerkszeug/dns/Resolver.java
+END
+Markers.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1520/trunk/dns/src/org/handwerkszeug/dns/Markers.java
+END
+SimpleNameCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1446/trunk/dns/src/org/handwerkszeug/dns/SimpleNameCompressor.java
+END
+OpCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1470/trunk/dns/src/org/handwerkszeug/dns/OpCode.java
+END
+DNSClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1586/trunk/dns/src/org/handwerkszeug/dns/DNSClass.java
+END
+NameServerContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1465/trunk/dns/src/org/handwerkszeug/dns/NameServerContainer.java
+END
+Zone.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1544/trunk/dns/src/org/handwerkszeug/dns/Zone.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1527/trunk/dns/src/org/handwerkszeug/dns/Constants.java
+END
+ZoneType.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1539/trunk/dns/src/org/handwerkszeug/dns/ZoneType.java
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1582/trunk/dns/src/org/handwerkszeug/dns/Name.java
+END
+ResolveContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1548/trunk/dns/src/org/handwerkszeug/dns/ResolveContext.java
+END
+RRType.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1586/trunk/dns/src/org/handwerkszeug/dns/RRType.java
+END
+NameServerContainerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1468/trunk/dns/src/org/handwerkszeug/dns/NameServerContainerProvider.java
+END
+ResourceRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1586/trunk/dns/src/org/handwerkszeug/dns/ResourceRecord.java
+END
+NullNameCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1446/trunk/dns/src/org/handwerkszeug/dns/NullNameCompressor.java
+END
+Header.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1551/trunk/dns/src/org/handwerkszeug/dns/Header.java
+END
+DNSMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1551/trunk/dns/src/org/handwerkszeug/dns/DNSMessage.java
+END
+RCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1543/trunk/dns/src/org/handwerkszeug/dns/RCode.java
+END
+NameCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1446/trunk/dns/src/org/handwerkszeug/dns/NameCompressor.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1549/trunk/dns/src/org/handwerkszeug/dns/Response.java
+END

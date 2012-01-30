@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1563/trunk/dns/test/org/handwerkszeug/dns/zone
+END
+ZoneDatabaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1548/trunk/dns/test/org/handwerkszeug/dns/zone/ZoneDatabaseTest.java
+END
+MasterZoneTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1563/trunk/dns/test/org/handwerkszeug/dns/zone/MasterZoneTest.java
+END

@@ -1,0 +1,8 @@
+K 13
+svn:externals
+V 223
+util https://werkzeugkasten.googlecode.com/svn/trunk/werkzeugkasten.common/src/werkzeugkasten/common/util
+
+exception https://werkzeugkasten.googlecode.com/svn/trunk/werkzeugkasten.common/src/werkzeugkasten/common/exception
+
+END

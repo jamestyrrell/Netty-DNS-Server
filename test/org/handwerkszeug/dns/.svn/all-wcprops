@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1586/trunk/dns/test/org/handwerkszeug/dns
+END
+NameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1581/trunk/dns/test/org/handwerkszeug/dns/NameTest.java
+END
+ResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1474/trunk/dns/test/org/handwerkszeug/dns/ResolverTest.java
+END
+RRTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1580/trunk/dns/test/org/handwerkszeug/dns/RRTypeTest.java
+END
+HeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1476/trunk/dns/test/org/handwerkszeug/dns/HeaderTest.java
+END
+DNSMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1578/trunk/dns/test/org/handwerkszeug/dns/DNSMessageTest.java
+END

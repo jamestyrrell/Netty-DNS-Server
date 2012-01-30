@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1586/trunk/dns/test/org/handwerkszeug/dns/conf
+END
+ResolveConfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1524/trunk/dns/test/org/handwerkszeug/dns/conf/ResolveConfTest.java
+END
+NodeToForwardersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1532/trunk/dns/test/org/handwerkszeug/dns/conf/NodeToForwardersTest.java
+END
+NodeToAddressTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1532/trunk/dns/test/org/handwerkszeug/dns/conf/NodeToAddressTest.java
+END
+ServerConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1535/trunk/dns/test/org/handwerkszeug/dns/conf/ServerConfigurationTest.java
+END

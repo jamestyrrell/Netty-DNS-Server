@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1586/trunk/dns/src/org/handwerkszeug/util
+END
+EnumUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1586/trunk/dns/src/org/handwerkszeug/util/EnumUtil.java
+END
+AddressUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1586/trunk/dns/src/org/handwerkszeug/util/AddressUtil.java
+END
+ClassUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1453/trunk/dns/src/org/handwerkszeug/util/ClassUtil.java
+END
+CompareUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1557/trunk/dns/src/org/handwerkszeug/util/CompareUtil.java
+END
+VariableEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1443/trunk/dns/src/org/handwerkszeug/util/VariableEnum.java
+END
+Validation.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1586/trunk/dns/src/org/handwerkszeug/util/Validation.java
+END
