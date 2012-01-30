@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings
+target
+.checkstyle
+.springBeans
+bin
+.idea
+*.iml
+*~
+OSGI-INF
+META-INF
+.pmd
+.ruleset
+pmd-*

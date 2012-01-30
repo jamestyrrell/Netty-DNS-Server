@@ -1,3 +1,0 @@
-bindingHosts : 127.0.0.1:53
-forwarders : autoDetect
-threadPoolSize : 30
