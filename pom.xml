@@ -51,8 +51,8 @@
                     <configuration>
                         <instructions>
                             <Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
-                            <Export-Package>*;version=${project.version}</Export-Package>
-                            <Import-Package>*;resolution:=optional</Import-Package>
+                            <Export-Package>org.handwerkszeug.*;version=${project.version},werkzeugkasten.common.*;version=${project.version}</Export-Package>
+                            <Import-Package>org.jboss.netty.*;version="[3.3,4)",*;resolution:=optional</Import-Package>
                         </instructions>
                     </configuration>
                 </plugin>
